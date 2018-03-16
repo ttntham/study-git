@@ -6,4 +6,5 @@ practice github
 
 ################
 edit file to commit file to github
-
+################
+change to check detail status after using a command
