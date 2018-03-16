@@ -9,4 +9,4 @@ edit file to commit file to github
 ################
 change to check detail status after using a command
 ################
-edit 1 file with conflic
+edit 1 file with conflic ---> edited ha ha
